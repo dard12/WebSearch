@@ -1,0 +1,31 @@
+http://purl.org/library/hasManifestation: has physical copy
+http://www.w3.org/2002/07/owl#sameAs: is same as
+http://schema.org/url: has url
+http://schema.org/isbn: has isbn
+http://purl.org/library/holdingsCount: has holdings count
+http://schema.org/name: called
+http://www.w3.org/2004/02/skos/core#inScheme: is in scheme
+http://www.w3.org/2000/01/rdf-schema#label: labeled
+http://schema.org/bookEdition: is edition
+http://xmlns.com/foaf/0.1/page: is on page
+http://schema.org/inLanguage: in
+http://purl.org/library/oclcnum: has oclc number
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type: is type
+http://xmlns.com/foaf/0.1/homepage: has homepage
+http://schema.org/copyrightYear: has copyright year
+http://schema.org/contentRating: has rating
+http://schema.org/bookFormat: is in format
+http://schema.org/about: about
+http://schema.org/illustrator: has illustrators
+http://schema.org/isFamilyFriendly: is family friendly
+http://purl.org/library/hasCarrier: has carrier
+http://schema.org/description: on
+http://www.loc.gov/mads/rdf/v1#isIdentifiedByAuthority: is identified
+http://schema.org/awards: has awards
+http://schema.org/contributor: has contributors
+http://schema.org/numberOfPages: has number of pages
+http://purl.org/dc/terms/isPartOf: is part of
+http://schema.org/author: written by
+http://schema.org/datePublished: published in
+http://schema.org/image: has image
+http://schema.org/genre: is genre
